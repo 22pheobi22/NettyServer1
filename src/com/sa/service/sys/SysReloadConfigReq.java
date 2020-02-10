@@ -29,4 +29,3 @@ public class SysReloadConfigReq extends Packet {
 	}
 
 }
-
